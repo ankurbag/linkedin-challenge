@@ -5,6 +5,7 @@ This a challenge for Unit 2 batch Jan - Sep 2024
 ## Description
 
 - Challenge 1 - Update the HTML page manually, and use git command
+- Challenge 2 - Update the HTML page programmatically, and use git command
 
 ## Getting Started
 
